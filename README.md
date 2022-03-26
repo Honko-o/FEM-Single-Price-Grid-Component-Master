@@ -14,8 +14,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://honko-o.github.io/FEM-Single-Price-Grid-Component-Master/)
+- Live Site URL: (https://github.com/Honko-o/FEM-Single-Price-Grid-Component-Master)
 
 ## My process
 
