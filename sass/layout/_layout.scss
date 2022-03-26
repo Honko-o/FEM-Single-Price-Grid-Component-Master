@@ -1,0 +1,8 @@
+@use '../core/' as *;
+body {
+    @include flex(center, center, column);
+    background-color: $neutral-gray-300;
+}
+main {
+    margin: 4rem 2rem;
+}
